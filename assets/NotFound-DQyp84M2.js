@@ -1,1 +1,0 @@
-import{_ as o,c as s,a as t,o as a}from"./index-Dd0_v_zm.js";const n={},r={class:"text-center py-20"};function c(d,e){return a(),s("div",r,e[0]||(e[0]=[t("h1",{class:"text-4xl font-bold"},"404 - Page Not Found",-1),t("p",{class:"mt-4 text-gray-500"},"Oops! The page you are looking for doesn't exist.",-1)]))}const _=o(n,[["render",c]]);export{_ as default};
